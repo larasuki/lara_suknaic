@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+head, body:{
+	text-align: center;
+}
+h1, h2, h3{
+	color:#383234;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+
+p{
+	color: #786b6f;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 14px;
+	line-height: 18px;
+	width: 600px;
+	padding: 20px;
+	background-color: #e5c3b7;
+}
+.pozadina2{background-image: url("mediji/04.jpg")}
+
+.pozadina1{background-color: #d1b7bc;}
+
+.blok{background-color: rgba(229, 195, 183,0.7);
+	width: 600px;
+	padding:20px;
+}
+
+img{
+	height:200px;
+	
+}
+
+a:link{
+	color:#786b6f;
+	background-color: rgba(#E7BEBF);
+}
+	a:hover{
+	color:darkorchid;
+	background-color: whitesmoke;
+}
+
